@@ -1,5 +1,5 @@
 # ENPM809Y Final Project - Group 1
-final project for ENPM809Y - Fall 2023
+Final project for ENPM809Y - Fall 2023
 
 # Authors
 - Obaid Ur Rehman - Developer
