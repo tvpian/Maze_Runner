@@ -1,6 +1,6 @@
 # Maze Runner
 ## Description
-In this ROS2 based implementation, a turtlebot3 performs autonomous waypoint navigation based on the realtime poses of the colored parts present in the gazebo world.
+In this ROS2-based implementation, a turtlebot3 performs autonomous waypoint navigation based on the real-time poses of the colored parts present in the gazebo world.
 
 ## Dependencies
 - ROS2 Galactic
@@ -23,7 +23,8 @@ workspace.
 
 ## Usage
 - [Link to usage](./group1_final/readme.md)
-- Note: Considering all the packages including the group1_final is cloned in the same workspace, Please follow only the instructions under the "Running the Project
+- Note: Considering all the packages including the group1_final cloned in the same workspace, Please follow only the instructions under the "Running the Project
 " section in the link above.
 
+## Demo
 [demo.webm](https://github.com/tvpian/Maze_Runner/assets/41953267/9c2e4b79-4b36-48e2-995b-bce9027824f6)
