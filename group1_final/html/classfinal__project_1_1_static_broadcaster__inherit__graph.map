@@ -1,0 +1,4 @@
+<map id="final_project::StaticBroadcaster" name="final_project::StaticBroadcaster">
+<area shape="rect" id="node1" title="This class is used to broadcast the static transform between parts and camera frames and map and odom..." alt="" coords="5,80,232,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="91,5,147,32"/>
+</map>
