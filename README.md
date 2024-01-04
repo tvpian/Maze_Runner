@@ -20,3 +20,5 @@ workspace.
 
 ## Usage
 - [Link to usage](./group1_final/readme.md)
+- Note: Considering all the packages including the group1_final is cloned in the same workspace, Please follow only the instructions under the "Running the Project
+" section in the link above.
